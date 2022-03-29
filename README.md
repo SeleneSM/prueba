@@ -3,7 +3,7 @@ Repositorio de prueba para comando de git
 
 ## Autor
 * **Saad Moisés** Selene
-* **Saad Moisés** Nerea
+* **Saad Moisés**  Ana Nerea
 
 
 ## Contenido/Descripción
